@@ -1,0 +1,7 @@
+pymysql
+scrapy
+click
+image
+python-crontab
+pyqt5
+sip
